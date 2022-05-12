@@ -8,8 +8,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * @author hwaner
- * @created at 2022/04/21 14:03
- * @description:
  * 1. model test
  * 2. mvc test
  * 3. api test
